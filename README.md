@@ -1,5 +1,5 @@
 ## About
-This project shows how to handle authentication and authorization in a REST API
+This template that has authentication, authorization, user, and user posession functionality. The next features are still under construction.
 
 ## dependencies
 - package manager -> uv: https://docs.astral.sh/uv/
